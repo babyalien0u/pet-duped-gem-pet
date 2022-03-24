@@ -1,0 +1,81 @@
+
+
+local ScreenGui = Instance.new("ScreenGui")
+local main = Instance.new("Frame")
+local PetSimXDupedMethodByRexGaming2468 = Instance.new("TextLabel")
+local RESET = Instance.new("TextButton")
+local _10Minutes = Instance.new("TextButton")
+local _20Minutes = Instance.new("TextButton")
+local _30Minutes = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.CoreGui
+
+main.Name = "main"
+main.Parent = ScreenGui
+main.BackgroundColor3 = Color3.fromRGB(159, 159, 159)
+main.Position = UDim2.new(0.110659882, 0, 0.184855238, 0)
+main.Size = UDim2.new(0, 253, 0, 298)
+main.Active = true
+main.Draggable = true
+
+PetSimXDupedMethodByRexGaming2468.Name = "PetSimX Duped Method|By RexGaming2468"
+PetSimXDupedMethodByRexGaming2468.Parent = main
+PetSimXDupedMethodByRexGaming2468.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+PetSimXDupedMethodByRexGaming2468.Size = UDim2.new(0, 253, 0, 50)
+PetSimXDupedMethodByRexGaming2468.Text = "PetSimX Duped Method|By RexGaming2468"
+PetSimXDupedMethodByRexGaming2468.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+RESET.Name = "RESET"
+RESET.Parent = main
+RESET.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
+RESET.Position = UDim2.new(0, 0, 0.173611104, 0)
+RESET.Size = UDim2.new(0, 253, 0, 50)
+RESET.Font = Enum.Font.SourceSans
+RESET.Text = "RESET"
+RESET.TextColor3 = Color3.fromRGB(0, 0, 0)
+RESET.TextSize = 46.000
+.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/babyalien0u/name-/main/Pet%20Simulator%20X%20Duped%20Method%20%7CMade%20By%20Rexgaming2468")()
+end)
+
+_10Minutes.Name = "10 Minutes"
+_10Minutes.Parent = main
+_10Minutes.BackgroundColor3 = Color3.fromRGB(0, 255, 64)
+_10Minutes.Position = UDim2.new(0, 0, 0.347222239, 0)
+_10Minutes.Size = UDim2.new(0, 253, 0, 68)
+_10Minutes.Font = Enum.Font.SourceSans
+_10Minutes.Text = "10 Minutes"
+_10Minutes.TextColor3 = Color3.fromRGB(0, 0, 0)
+_10Minutes.TextSize = 47.000
+_10Minutes.TextWrapped = true
+.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/babyalien0u/name-/main/Pet%20Simulator%20X%20Duped%20Method%20%7CMade%20By%20Rexgaming2468")()
+end)
+
+_20Minutes.Name = "20 Minutes"
+_20Minutes.Parent = main
+_20Minutes.BackgroundColor3 = Color3.fromRGB(12, 186, 0)
+_20Minutes.Position = UDim2.new(0, 0, 0.577880263, 0)
+_20Minutes.Size = UDim2.new(0, 253, 0, 64)
+_20Minutes.Font = Enum.Font.SourceSans
+_20Minutes.Text = "20 Minutes"
+_20Minutes.TextColor3 = Color3.fromRGB(0, 0, 0)
+_20Minutes.TextSize = 47.000
+.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/babyalien0u/name-/main/Pet%20Simulator%20X%20Duped%20Method%20%7CMade%20By%20Rexgaming2468")()
+end)
+
+_30Minutes.Name = "30 Minutes"
+_30Minutes.Parent = main
+_30Minutes.BackgroundColor3 = Color3.fromRGB(0, 106, 7)
+_30Minutes.Position = UDim2.new(0, 0, 0.792645335, 0)
+_30Minutes.Size = UDim2.new(0, 253, 0, 61)
+_30Minutes.Font = Enum.Font.SourceSans
+_30Minutes.Text = "30 Minutes"
+_30Minutes.TextColor3 = Color3.fromRGB(0, 0, 0)
+_30Minutes.TextSize = 47.000
+.MouseButton1Down:connect(function()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/babyalien0u/name-/main/Pet%20Simulator%20X%20Duped%20Method%20%7CMade%20By%20Rexgaming2468")()
+end)
